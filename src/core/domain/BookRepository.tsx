@@ -1,4 +1,4 @@
-import {Book} from './Book';
+import {Book} from '../data/Book';
 
 export interface BookRepository {
   getBooks(): Promise<Book[]>;

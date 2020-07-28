@@ -1,5 +1,5 @@
 import {Book} from './Book';
-import {BookRepository} from './BookRepository';
+import {BookRepository} from '../domain/BookRepository';
 
 class BookDTO {
   pages: number = 0;

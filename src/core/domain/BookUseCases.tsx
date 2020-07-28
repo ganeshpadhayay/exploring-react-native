@@ -1,5 +1,5 @@
-import {Book} from '../entities/Book';
-import {BookRepository} from '../entities/BookRepository';
+import {Book} from '../data/Book';
+import {BookRepository} from './BookRepository';
 
 export interface BookService {
   getSampleBooks(): Promise<Book[]>;

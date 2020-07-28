@@ -1,6 +1,6 @@
 import React from 'react';
 import {StyleSheet, View, Text} from 'react-native';
-import BookComponent from './src/core/infrastructure/BookComponent';
+import BookComponent from './src/core/presentation/BookComponent';
 
 const App = () => {
   return (

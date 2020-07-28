@@ -1,5 +1,5 @@
-import {BookServiceImpl} from '../usecases/UserService';
-import {BookRepositoryImpl} from '../entities/BookRepositoryImpl';
+import {BookServiceImpl} from '../domain/BookUseCases';
+import {BookRepositoryImpl} from '../data/BookRepositoryImpl';
 
 function getSampleBookData() {
   let bookRepository = new BookRepositoryImpl();
