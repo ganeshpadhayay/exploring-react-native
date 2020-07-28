@@ -1,6 +1,6 @@
 import React from 'react';
-
 import {StyleSheet, View, Text} from 'react-native';
+import BookComponent from './src/core/infrastructure/BookComponent';
 
 const App = () => {
   return (
@@ -8,6 +8,7 @@ const App = () => {
       <View style={styles.body}>
         <Text>Hello</Text>
       </View>
+      <BookComponent />
     </>
   );
 };
