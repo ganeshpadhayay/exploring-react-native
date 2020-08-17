@@ -3,8 +3,6 @@ import {Text, View, Button} from 'react-native';
 import getSampleBookData from './BookPresenter';
 
 const BookComponent = () => {
-  //why is this not working??
-  // const [bookData, setBookData] = useState([{pages: -1, title: 'Untitled'}]);
   const [bookName, setBookName] = useState('Untitled');
 
   const getSampleBookDataHandler = () => {
