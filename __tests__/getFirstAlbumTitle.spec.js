@@ -1,5 +1,5 @@
 import axios from 'axios';
-import getFirstAlbumTitle from '../functions/getFirstAlbumTitle';
+import getFirstAlbumTitle from '../src/common/getFirstAlbumTitle';
 
 jest.mock('axios');
 

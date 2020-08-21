@@ -1,6 +1,6 @@
 import React from 'react';
 import {render} from 'react-native-testing-library';
-import Hello from '../components/Home';
+import Hello from '../src/common/Home';
 
 describe('Hello', () => {
   it('displays the passed-in name', () => {

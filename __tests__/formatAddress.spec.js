@@ -1,4 +1,4 @@
-import formatAddress from '../functions/formatAddress';
+import formatAddress from '../src/common/formatAddress';
 
 describe('formatAddress', () => {
   it('returns the formatted address', () => {

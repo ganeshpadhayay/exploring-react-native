@@ -1,6 +1,6 @@
 import React from 'react';
 import {render, fireEvent} from 'react-native-testing-library';
-import NewMessageForm from '../components/NewMessageForm';
+import NewMessageForm from '../src/common/NewMessageForm';
 
 describe('NewMessageForm', () => {
   describe('clicking send', () => {
