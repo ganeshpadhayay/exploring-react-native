@@ -2,9 +2,9 @@ import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import * as actions from '../actions/Actions';
 import {Text, SafeAreaView, ActivityIndicator} from 'react-native';
-import {Card} from './common/Card';
-import {CardSection} from './common/CardSection';
-import {Button} from './common/Button';
+import {Card} from '../../common/Card';
+import {CardSection} from '../../common/CardSection';
+import {Button} from '../../common/Button';
 import hitAPI from '../NetworkService';
 
 class SampleComponent extends Component {
