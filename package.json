@@ -15,6 +15,7 @@
     "react": "16.13.1",
     "react-native": "0.63.1",
     "react-native-action-button": "^2.8.5",
+    "react-native-code-push": "^6.3.0",
     "react-native-elements": "^2.2.1",
     "react-native-testing-library": "^2.1.1",
     "react-native-vector-icons": "^7.0.0",

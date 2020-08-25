@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SampleCleanTestingArchitecture</string>
+    <string name="CodePushDeploymentKey" moduleConfig="true">MGrj2vr_fuKk3NDpi3H6M7KYhot813RM9ObcG</string>
 </resources>
