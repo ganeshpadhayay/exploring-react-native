@@ -8,7 +8,7 @@ const App = () => {
   return (
     <>
       <View style={styles.body}>
-        <Text>Hello</Text>
+        <Text>Hello World</Text>
       </View>
       <BookComponent />
     </>
