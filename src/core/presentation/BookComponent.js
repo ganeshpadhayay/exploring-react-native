@@ -15,7 +15,6 @@ const BookComponent = () => {
       <Button title="Get Sample Book" onPress={getSampleBookDataHandler} />
       <Text>{bookName}</Text>
       <Text>{bookName}</Text>
-      <Text>{bookName}</Text>
     </View>
   );
 };
