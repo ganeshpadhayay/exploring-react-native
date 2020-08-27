@@ -9,6 +9,7 @@ const App = () => {
     <>
       <View style={styles.body}>
         <Text>Hello World</Text>
+        <Text>Testing Code Push App version 1.1</Text>
       </View>
       <BookComponent />
     </>
