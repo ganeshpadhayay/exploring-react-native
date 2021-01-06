@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "formik": "^2.1.5",
     "react": "16.13.1",
     "react-native": "0.63.1",
